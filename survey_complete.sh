@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE= mischevous cat metro potatoes badc01 
+EXAMCODE= 949411373
 
 echo ${EXAMCODE}
